@@ -1,5 +1,7 @@
 # BrowserBox: Upgrade your Web 📈
 
+[![Star History Chart](https://api.star-history.com/svg?repos=BrowserBox/BrowserBox&type=Date)](https://star-history.com/#BrowserBox/BrowserBox&Date)
+
 ## 🌟 **Why Businesses Love BrowserBox!** 🌟
 
 "BrowserBox is nothing short of revolutionary! It's the perfect blend of cybersecurity and functionality, making our Zero Trust architecture robust and user-friendly! 🚀"  
