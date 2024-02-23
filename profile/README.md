@@ -1,4 +1,4 @@
-# BrowserBox: Upgrade your Web 📈
+# [BrowserBox: Sanitize and Upgrade your Web](https://github.com/BrowserBox/BrowserBox) 📈
 
 [![Star History Chart](https://api.star-history.com/svg?repos=BrowserBox/BrowserBox&type=Date)](https://star-history.com/#BrowserBox/BrowserBox&Date)
 
