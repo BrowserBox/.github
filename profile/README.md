@@ -1,6 +1,6 @@
 <div align=center>
        
-|  <img style width=80 height=80 src=https://raw.githubusercontent.com/BrowserBox/BrowserBox/boss/docs/icon.svg alt='BrowserBox Logo 2023'> | <h1>　BrowserBox 　</h1> |
+|  <img style width=80 height=80 src=https://raw.githubusercontent.com/BrowserBox/BrowserBox/boss/docs/icon.svg alt='BrowserBox Logo 2023'> | <h1>　<a href=https://github.com/BrowserBox/BrowserBox/>BrowserBox</a> 　</h1> |
 |------|------|
 
 </div>
