@@ -1,3 +1,13 @@
+<div align=center>
+       
+|  <img style width=80 height=80 src=https://raw.githubusercontent.com/BrowserBox/BrowserBox/boss/docs/icon.svg alt='BrowserBox Logo 2023'> | <h1>　BrowserBox 　</h1> |
+|------|------|
+
+</div>
+
+[Español&nbsp;(Spanish)](https://github.com/BrowserBox/BrowserBox/blob/boss/translated-intros/INTRO-ES.md) | [עברית&nbsp;(Hebrew)](https://github.com/BrowserBox/BrowserBox/blob/boss/translated-intros/INTRO-HE.md) | [हिन्दी&nbsp;(Hindi)](https://github.com/BrowserBox/BrowserBox/blob/boss/translated-intros/INTRO-HI.md) | [Français&nbsp;(French)](https://github.com/BrowserBox/BrowserBox/blob/boss/translated-intros/INTRO-FR.md) | [Русский&nbsp;(Russian)](https://github.com/BrowserBox/BrowserBox/blob/boss/translated-intros/INTRO-RU.md) | [العربية&nbsp;(Arabic)](https://github.com/BrowserBox/BrowserBox/blob/boss/translated-intros/INTRO-AR.md) | [中文&nbsp;(Chinese)](https://github.com/BrowserBox/BrowserBox/blob/boss/translated-intros/INTRO-ZH.md) | [اردو&nbsp;(Urdu)](https://github.com/BrowserBox/BrowserBox/blob/boss/translated-intros/INTRO-UR.md)
+
+
 # [BrowserBox: Secure and Modernize Your Web Environment](https://github.com/BrowserBox/BrowserBox)
 
 In today's fast-evolving digital landscape, secure and compliant web browsing is more than just a priority—it's a mandate. BrowserBox is a state-of-the-art solution crafted to meet the exacting demands of industries like defense, healthcare, cybersecurity, and government. By isolating web content in a secure, remote environment, BrowserBox not only fortifies your network against emerging threats but also seamlessly integrates with your existing applications to enhance productivity.
