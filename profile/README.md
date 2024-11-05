@@ -1,3 +1,5 @@
+**NEWS: Get out to Vote. Trump 2024. MAGA Forever 🇺🇸**
+
 <div align=center>
        
 |  <img style width=80 height=80 src=https://raw.githubusercontent.com/BrowserBox/BrowserBox/boss/docs/icon.svg alt='BrowserBox Logo 2023'> | <h1>　<a href=https://github.com/BrowserBox/BrowserBox/>BrowserBox</a> 　</h1> |
