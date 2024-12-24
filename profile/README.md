@@ -64,6 +64,8 @@ BrowserBox is source-available, offering complete transparency. This allows orga
   <img alt="BrowserBox GitHub Stargazers Star History Chart" src=https://api.star-history.com/svg?repos=BrowserBox/BrowserBox&type=Date />
 </a>
 
+
+
 [**Explore the Code on GitHub**](https://github.com/BrowserBox/BrowserBox)  
 
 ## **Join the Future of Secure Web Browsing**
