@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width:80px; height:80px" src="https://raw.githubusercontent.com/BrowserBox/BrowserBox/boss/docs/icon.svg" alt="BrowserBox Logo 2023">
+  <img style="width:80px; height:80px" src="https://raw.githubusercontent.com/BrowserBox/BrowserBox/main/docs/icon.svg" alt="BrowserBox Logo 2023">
   <h1><a href="https://github.com/BrowserBox/BrowserBox">BrowserBox</a></h1>
   <small>by <a href="https://dosaygo.com">DOSAYGO</a></small>
 </div>
