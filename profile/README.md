@@ -5,11 +5,16 @@
 
 # `bbx` lets you
 
-- manage and activate your BrowserBox copy
-- purchase a BrowserBox license key
-- run BrowsreBox as multiple users on the one machine
-- run BrowserBox inside docker
-- run BrowserBox through tor
+- manage and activate your BrowserBox copy 📝
+- purchase a BrowserBox license key 🔐
+- run BrowsreBox as multiple users on the one machine 👨‍🦲👱‍♀️👷‍♂️
+- run BrowserBox inside docker 🟦🐳
+- run BrowserBox through tor 🟣🧅
+- easily install and update BrowserBox ⬇️✔️
 - And more!
 
-  
+# Userful Links
+
+- [CloudTabs - Managed BrowserBox&trade; SaaS](https://browse.cloudtabs.net)
+- [Purchase a BrowserBox Commercial License for 1 or more seats](https://browse.cloudtabs.net/l)
+- [Visit the DOSAYGO website](https://dosaygo.com)
