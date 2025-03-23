@@ -22,7 +22,7 @@ Welcome to **BrowserBox**—where we build tools to lock down the web without lo
 - **Contribute**: Fork, hack, PR—jump in.
 - **Connect**: Community launching soon—check [dosaygo.com](https://dosaygo.com).
 
-## Backed By Over 3000 People Worldwide
+## Used By Over 3000 People Worldwide
 
 Questions? Hit [sales@dosaygo.com](mailto:sales@dosaygo.com).  
 © 2025 DOSAYGO Corporation USA.
