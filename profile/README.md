@@ -1,20 +1,30 @@
-# Get our new [`bbx`](https://github.com/BrowserBox/BrowserBox?tab=readme-ov-file#get-started) tool 
+# BrowserBox Organization
+*Secure browsing, open-source grit, and cross-platform magic.*
 
-<a href="https://github.com/BrowserBox/BrowserBox?tab=readme-ov-file#get-started"><img width="1204" alt="Get our New bbx tool" src="https://github.com/user-attachments/assets/4d549f18-1fbb-463d-bf6a-4b2ce121dea2" /></a>
+Welcome to **BrowserBox**—where we build tools to lock down the web without locking you in. Our flagship? [BrowserBox RBI](https://github.com/BrowserBox/BrowserBox)—remote browser isolation that’s stable across macOS, Linux, and Windows, trusted by 50+ companies and 3k+ users. No data sold, just pure security and flexibility.
 
+## What We’re About
+- **Stability**: Tested to run anywhere—macOS, Linux, Windows.
+- **Transparency**: Open-source, privacy-first—[see our policy](https://dosaygo.com/privacy.txt).
+- **Power**: Tools for devs (Puppeteer/Playwright) and businesses (threat isolation).
 
-# `bbx` lets you
+## Dive In
+- **Try BrowserBox**: [trybrowserbox.com](https://trybrowserbox.com) (free 14-day trial).
+- **Get Licensed**: [getbrowserbox.com](https://getbrowserbox.com) (from $39/year for non-profits).
+- **Explore**: [dosaygo.com](https://dosaygo.com) for the full scoop.
 
-- manage and activate your BrowserBox copy 📝
-- purchase a BrowserBox license key 🔐
-- run BrowsreBox as multiple users on the one machine 👨‍🦲👱‍♀️👷‍♂️
-- run BrowserBox inside docker 🟦🐳
-- run BrowserBox through tor 🟣🧅
-- easily install and update BrowserBox ⬇️✔️
-- And more!
+## Our Repos
+- **[BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox)**: The RBI core—star it ⭐!
+- **[More coming soon]**: Watch this space for new tools.
 
-# Userful Links
+## Join the Party
+- **Star us**: Boost our signal.
+- **Contribute**: Fork, hack, PR—jump in.
+- **Connect**: Community launching soon—check [dosaygo.com](https://dosaygo.com).
 
-- [CloudTabs - Managed BrowserBox&trade; SaaS](https://browse.cloudtabs.net)
-- [Purchase a BrowserBox Commercial License for 1 or more seats](https://browse.cloudtabs.net/l)
-- [Visit the DOSAYGO website](https://dosaygo.com)
+## Backed By
+- **[Sponsor 1]** - Powering open-source security.
+- **[Sponsor 2]** - Cheers to them!
+
+Questions? Hit [sales@dosaygo.com](mailto:sales@dosaygo.com).  
+© 2025 DOSAYGO Corporation USA.
