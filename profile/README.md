@@ -1,5 +1,5 @@
 # BrowserBox Organization
-*Secure browsing, source-code trust, and cross-platform magic.*
+*Secure browsing, source-code safety, and cross-platform magic.*
 
 Welcome to **BrowserBox**—where we build tools to lock down the web without locking you in. Our flagship? [BrowserBox RBI](https://github.com/BrowserBox/BrowserBox)—remote browser isolation that’s stable across macOS, Linux, and Windows, trusted by 50+ companies and 3k+ users. No data sold, just pure security and flexibility.
 
