@@ -9,7 +9,6 @@ Welcome to **BrowserBox**—where we build tools to lock down the web without lo
 - **Power**: Tools for devs (Puppeteer/Playwright) and businesses (threat isolation).
 
 ## Dive In
-- **Try BrowserBox**: [trybrowserbox.com](https://dosaygo.com) (free 14-day trial).
 - **Get Licensed**: [getbrowserbox.com](https://browse.cloudtabs.net/l) (from $39/year for non-profits).
 - **Explore**: [dosaygo.com](https://dosaygo.com) for the full scoop.
 
