@@ -27,5 +27,7 @@ Welcome to **BrowserBox**—where we build tools to lock down the web without lo
 * **Contribute**: Fork, hack, PR—jump in.
 * **Connect**: Community launching soon—check [dosaygo.com](https://dosaygo.com).
 
+* ASCIINEMA Recordings: https://asciinema.org/~dosaygo
+
 Questions? Reach us at [sales@dosaygo.com](mailto:sales@dosaygo.com)
 © 2025 DOSAYGO Corporation USA.
